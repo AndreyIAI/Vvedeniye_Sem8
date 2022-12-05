@@ -1,0 +1,15 @@
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\dz3.csproj.AssemblyReference.cache
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\dz3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\dz3.AssemblyInfoInputs.cache
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\dz3.AssemblyInfo.cs
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\dz3.csproj.CoreCompileInputs.cache
+D:\MY\yaziki progr\sem8\dz3\bin\Debug\net6.0\dz3.exe
+D:\MY\yaziki progr\sem8\dz3\bin\Debug\net6.0\dz3.deps.json
+D:\MY\yaziki progr\sem8\dz3\bin\Debug\net6.0\dz3.runtimeconfig.json
+D:\MY\yaziki progr\sem8\dz3\bin\Debug\net6.0\dz3.dll
+D:\MY\yaziki progr\sem8\dz3\bin\Debug\net6.0\dz3.pdb
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\dz3.dll
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\refint\dz3.dll
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\dz3.pdb
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\dz3.genruntimeconfig.cache
+D:\MY\yaziki progr\sem8\dz3\obj\Debug\net6.0\ref\dz3.dll
